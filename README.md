@@ -1,5 +1,4 @@
-# flask-restful-login-example
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# flask-rest-login-example
 
 ### INSTALLATION
 * Python 3 is required. There are ways to send requests to server. 
